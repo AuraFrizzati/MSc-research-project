@@ -1,0 +1,1910 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2015-06-05T18:17:20Z</Created>
+  <LastSaved>2021-06-09T06:50:25Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12645</WindowHeight>
+  <WindowWidth>22260</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2255012784800">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784820">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784840">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784860">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784880">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784900">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786144">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786164">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786184">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786204">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786224">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786244">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012785472">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012785492">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012785512">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012785532">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012785552">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012785572">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784464">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784484">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784504">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784524">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784544">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784564">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012783792">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012783812">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012783832">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012783852">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012783872">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012783892">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787488">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787508">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787528">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787548">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787568">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787588">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012791184">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012791204">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012791224">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012791244">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012791264">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012791284">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787152">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787172">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787192">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787212">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787232">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787252">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784128">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784148">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784168">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784188">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012784208">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012784228">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012788160">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012788180">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012788200">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012788220">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012788240">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012788260">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012790848">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012790868">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012790888">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012790908">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012790928">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012790948">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786480">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786500">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786520">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786540">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012786560">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012786580">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787824">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787844">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787864">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787884">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255012787904">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255012787924">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011621728">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011621748">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011621768">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011621788">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011621808">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011621828">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011623408">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011623428">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011623448">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011623468">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011623488">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011623508">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011623528">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011623548">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2255011623568">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2255011623588">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B4C6E7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B4C6E7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Data Dictionary">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="227" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="246.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="306"/>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Variable</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="1" ss:StyleID="m2255012784800"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2255012784820"><Data ss:Type="String">Revision surgery status</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">0 = not a revision procedure</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">1 = revision procedure</Data></Cell>
+   </Row>
+   <Row ss:Height="32.25">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Age-band</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">0 to 19, 20 to 29, 30 to 39, 40 to 49, 50 to 59, 60 to 69, 70 to 79, 80 to 89, 90 to 120</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="1" ss:StyleID="m2255012784840"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2255012784860"><Data ss:Type="String">Sex</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">1 = Male</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">2 = Female</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784880"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784900"><Data ss:Type="String">Pre-operative assisted</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Is anyone helping you fill in this questionnaire?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">2 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012786144"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012786164"><Data ss:Type="String">Pre-operative previous surgery</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Indicates whether the patient has had previous surgery of the type they are going to undergo.</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">2 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="4" ss:StyleID="m2255012786184"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeDown="4" ss:StyleID="m2255012786204"><Data ss:Type="String">Pre-operative living arrangements</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Which statement best describes your living arrangements?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I live with partner/spouse/family/friends</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I live alone</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = I live in a nursing home, hospital or other long-term care home</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Other</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012786224"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012786244"><Data ss:Type="String">Pre-operative disability</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Do you consider yourself to have a disability?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">2 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785472"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785492"><Data ss:Type="String">Heart disease</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have heart disease?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785512"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785532"><Data ss:Type="String">High blood-pressure</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have high blood pressure?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785552"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012785572"><Data ss:Type="String">Stroke</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have problems caused by a stroke?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784464"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784484"><Data ss:Type="String">Circulation</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have leg pain when walking due to poor circulation?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784504"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784524"><Data ss:Type="String">Lung disease</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have lung disease?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784544"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012784564"><Data ss:Type="String">Diabetes</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have diabetes?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783792"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783812"><Data ss:Type="String">Kidney disease</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have kidney disease?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783832"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783852"><Data ss:Type="String">Nervous system</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have diseases of the nervous system?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783872"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012783892"><Data ss:Type="String">Liver disease</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have liver disease?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787488"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787508"><Data ss:Type="String">Cancer</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have cancer?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787528"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787548"><Data ss:Type="String">Depression</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have depression?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787568"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m2255012787588"><Data ss:Type="String">Arthritis</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Have you been told by a doctor that you have arthritis?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Yes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">9 = No</Data></Cell>
+   </Row>
+   <Row ss:Height="32.25">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pre-operative EQ5D Index</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Single utility index built from the responses from the single EQ-5D dimensions, using country specific value sets</Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pre-operative EQ-VAS</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Indicates how well the patient rates themselves to be feeling on the day of completing questionnaire 1 on a scale of 0 100 (0 being worst, and 100 being best)</Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Post-operative EQ-VAS</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Indicates how well the patient rates themselves to be feeling on the day of completing questionnaire 1 on a scale of 0 100 (0 being worst, and 100 being best)</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791184"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791204"><Data ss:Type="String">Pre-operative EQ5D-3L dimension: MOBILITY</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rates the patient's self-perceived mobility</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I have no problems in walking about</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I have some problems in walking about</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">3 = I am confined to bed</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791224"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791244"><Data ss:Type="String">Pre-operative EQ5D-3L dimension: SELF-CARE</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rates the patient's self-perceived ability to care for themselves</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I have no problems with self-care</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I have some problems washing or dressing myself</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">3 = I am unable to wash or dress myself</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791264"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012791284"><Data ss:Type="String">Pre-operative EQ5D-3L dimension: ACTIVITY</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rates the patient's self-perceived ability to perform usual activities</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I have no problems with performing my usual activities</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I have some problems with performing my usual activities</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">3 = I am unable to perform my usual activities</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012787152"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012787172"><Data ss:Type="String">Pre-operative EQ5D-3L dimension: PAIN/DISCOMFORT</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rates the patient's self-perceived pain/discomfort</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I have no pain or discomfort</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I have moderate pain or discomfort</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">3 = I have extreme pain or discomfort</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012787192"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:MergeDown="3" ss:StyleID="m2255012787212"><Data ss:Type="String">Pre-operative EQ5D-3L dimension: ANXIETY/DEPRESSION</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Rates the patient's self-perceived level of anxiety/depression</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = I am not anxious or depressed</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = I am moderately anxious or depressed</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">3 = I am extremely anxious or depressed</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787232"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787252"><Data ss:Type="String">Pre-operative OHS dimension: PAIN</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, how would you describe the pain you usually had from your hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Severe</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Moderate</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Mild</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very Mild</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = None</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784128"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784148"><Data ss:Type="String">Pre-operative OHS dimension: SUDDENPAIN</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you had any sudden, severe pain 'shooting', 'stabbing' or 'spasms' from the affected hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Every day</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Most days</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Some days</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Only 1 or 2 days</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No days</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784168"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784188"><Data ss:Type="String">Pre-operative OHS dimension: NIGHTPAIN</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been troubled by pain from your hip in bed at night?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Every night</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Most nights</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Some nights</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Only 1 or 2 nights</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No nights</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784208"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012784228"><Data ss:Type="String">Pre-operative OHS dimension: WASHING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you had trouble washing and drying yourself (all over) because of your hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Impossible to do</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderate trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very little trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No trouble at all</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788160"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788180"><Data ss:Type="String">Pre-operative OHS dimension: TRANSPORT</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you had any trouble getting in or out of your car or using public transport because of your hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Impossible to do</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderate trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very little trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No trouble at all</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788200"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788220"><Data ss:Type="String">Pre-operative OHS dimension: DRESSING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been able to put on a pair of socks, stockings or tights?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788240"><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012788260"><Data ss:Type="String">Pre-operative OHS dimension: SHOPPING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, could you do the household shopping on your own?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790848"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790868"><Data ss:Type="String">Pre-operative OHS dimension: WALKING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, for how long have you been able to walk before pain from your hip becomes severe? (with or without a stick)</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Not at all pain severe on walking</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Around the house only</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = 5 to 15 minutes</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = 16 to 30 minutes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No pain/more than 30 minutes</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790888"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790908"><Data ss:Type="String">Pre-operative OHS dimension: LIMPING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been limping when walking, because of your hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = All of the time</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Most of the time</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Often, not just at first</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Sometimes or just at first</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Rarely/Never</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790928"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012790948"><Data ss:Type="String">Pre-operative OHS dimension: STAIRS</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been able to climb a flight of stairs?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786480"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786500"><Data ss:Type="String">Pre-operative OHS dimension: STANDING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, after a meal (sat at a table), how painful has it been for you to stand up from a chair because of your hip?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Unbearable</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Very painful</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderately painful</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Slightly painful</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Not at all painful</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786520"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786540"><Data ss:Type="String">Pre-operative OHS dimension: WORK</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, how much has pain from your hip interfered with your usual work (including housework)?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Totally</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Greatly</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderately</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = A little bit</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Not at all</Data></Cell>
+   </Row>
+   <Row ss:Height="63.75">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pre-operative OHS total score</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">The pre-operative OHS total score is derived by adding the points for each pre-operative dimension. The maximum number of points is 48 which would signify the best outcome, the minimum being 0.</Data></Cell>
+   </Row>
+   <Row ss:Height="63.75">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Post-operative OHS total score</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">The post-operative OHS total score is derived by adding the points for each post-operative dimension. The maximum number of points is 48 which would signify the best outcome, the minimum being 0.</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786560"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012786580"><Data ss:Type="String">Pre-operative OKS dimension: PAIN</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, how would you describe the pain you usually have from your knee?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Severe</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Moderate</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Mild</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very Mild</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = None</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787824"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787844"><Data ss:Type="String">Pre-operative OKS dimension: NIGHT PAIN</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been troubled by pain from your knee in bed at night?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Every night</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Most nights</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Some nights</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Only 1 or 2 nights</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No nights  </Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787864"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787884"><Data ss:Type="String">Pre-operative OKS dimension: WASHING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you had any trouble washing and drying yourself (all over) because of your knee?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Impossible to do</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderate trouble </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very little trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No trouble at all </Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787904"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255012787924"><Data ss:Type="String">Pre-operative OKS dimension: TRANSPORT</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you had any trouble getting in or out of your car or using public transport because of your knee?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Impossible to do</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderate trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Very little trouble</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No trouble at all</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621728"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621748"><Data ss:Type="String">Pre-operative OKS dimension: WALKING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, for how long have you been able to walk before pain from your knee becomes severe? (with or without a stick)</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Not at all/pain severe when walking</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Around the house only</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = 5 to 15 minutes </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = 16 to 30 minutes</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = No pain/more than 30 minutes </Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621768"><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621788"><Data ss:Type="String">Pre-operative OKS dimension: STANDING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, after a meal (sat at a table), how painful has it been for you to stand up from a chair because of your knee?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Unbearable</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Very painful</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderately painful </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Slightly painful</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Not at all painful </Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621808"><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011621828"><Data ss:Type="String">Pre-operative OKS dimension: LIMPING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, have you been limping when walking, because of your knee?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = All of the time</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Most of the time</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Often, not just at first</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = Sometimes or just at first</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Rarely/Never</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623488"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623508"><Data ss:Type="String">Pre-operative OKS dimension: KNEELING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, could you kneel down and get up again afterwards?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily </Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623528"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623548"><Data ss:Type="String">Pre-operative OKS dimension: WORK</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, how much has pain from your knee interfered with your usual work (including housework)?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Totally</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Greatly</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderately</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = A little bit</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Not at all</Data></Cell>
+   </Row>
+   <Row ss:Height="47.25">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623568"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623588"><Data ss:Type="String">Pre-operative OKS dimension: CONFIDENCE</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, how much has pain from your knee interfered with your usual work (including housework)?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = Totally</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = Greatly</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = Moderately</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = A little bit</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Not at all</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623408"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623428"><Data ss:Type="String">Pre-operative OKS dimension: SHOPPING</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, could you do household shopping on your own?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily</Data></Cell>
+   </Row>
+   <Row ss:Height="31.5">
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623448"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m2255011623468"><Data ss:Type="String">Pre-operative OKS dimension: STAIRS</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">During the past 4 weeks, could you walk down one flight of stairs?</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">0 = No, impossible</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">1 = With extreme difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">2 = With moderate difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:Index="3" ss:StyleID="s18"><Data ss:Type="String">3 = With little difficulty</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:Index="3" ss:StyleID="s19"><Data ss:Type="String">4 = Yes, easily</Data></Cell>
+   </Row>
+   <Row ss:Height="63.75">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Pre-operative OKS total score</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">The pre-operative OKS total score is derived by adding the points for each pre-operative dimension. The maximum number of points is 48 which would signify the best outcome, the minimum being 0.</Data></Cell>
+   </Row>
+   <Row ss:Height="63.75">
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Post-operative OKS total score</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">The post-operative OKS total score is derived by adding the points for each post-operative dimension. The maximum number of points is 48 which would signify the best outcome, the minimum being 0.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>-1</HorizontalResolution>
+    <VerticalResolution>-1</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
